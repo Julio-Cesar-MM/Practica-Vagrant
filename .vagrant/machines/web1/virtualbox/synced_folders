@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"SharedFoldersEnableSymlinksCreate":false,"guestpath":"/var/www/html","hostpath":"C:/Users/Carlos/source/repos/Practica-Vagrant/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Carlos/source/repos/Practica-Vagrant","disabled":false,"__vagrantfile":true}}}
